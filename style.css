@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -22,4 +23,21 @@ section {
 
 .half-width img {
     width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(197, 125, 17), tomato);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+
+.dream-big {
+    display: flex;
+}
+
+.tahsin {
+    height: 80%;
 }
