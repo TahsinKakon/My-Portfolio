@@ -10,7 +10,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible {
     display: flex;
     margin-bottom: 100px;
 }
@@ -40,4 +40,25 @@ section {
 
 .tahsin {
     height: 80%;
+}
+
+.exp-list {
+    width: 40%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#full-stack-dev {
+    border-left: 7px solid red;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
