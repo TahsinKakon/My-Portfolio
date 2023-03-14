@@ -1,9 +1,25 @@
-body{
+body {
     font-family: 'Tilt Warp', cursive;
 }
-h1{
+
+h1 {
     font-size: 40px;
 }
-.fst{
+
+.fst {
     color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.half-width img {
+    width: 70%;
 }
